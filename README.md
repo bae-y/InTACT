@@ -86,7 +86,7 @@ The second table shows the results from gene-trait association tests for `NPANEL
 
 If you use the software, please cite
 
-Bae, Y. E., Bradley, J., Wu, L., and Wu, C. (?) An integrative approach for identifying gene-trait associations in multi-tissue transcriptome-wide association studies. Journal. doi.
+Bae, Y. E., Wu, L., and Wu, C. (2020+) An integrative approach for identifying gene-trait associations in multi-tissue transcriptome-wide association studies. Submitted.
 
 ## Author
 
